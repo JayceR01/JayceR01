@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jayce
 - 👀 I’m interested in technology, learning as much as I can, and meeting and interacting with new people
-- 🌱 I’m currently learning cybersecurity, as well as some coding/scripting
-- 💞️ I’m looking to collaborate on anything! I would love to learn and grow my coding abilities as well as cybersecurity skills
+- 🌱 I’m currently learning Javascript and Python, as well as some coding/scripting
+- 💞️ I’m looking to collaborate on anything! I would love to learn and grow my coding abilities.
 - 📫 How to reach me jvruth01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ran track and really love sprints. I also really enjoy finding new games that grab your attention and make you quickly fall in love.
